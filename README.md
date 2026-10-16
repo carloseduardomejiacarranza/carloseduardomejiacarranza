@@ -21,16 +21,25 @@ Construyendo ideas, aprendiendo nuevas tecnologías y convirtiendo retos en proy
 🛠️ Me gusta crear proyectos y encontrar soluciones a problemas.
 🎯 Mi objetivo es crecer como desarrollador y construir herramientas útiles.
 🤝 Abierto a colaborar en proyectos interesantes y aprender de otros desarrolladores.
+
+
 🧰 Tecnologías y herramientas
 
-Aquí puedes mostrar las tecnologías que utilizas actualmente.
+<div align="center">
 
-<!-- Añade o elimina las tecnologías según tus conocimientos reales. -->
+💻 IDEs y desarrollo
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Herramientas de desarrollo" />
+<p>
+<img src="https://skillicons.dev/icons?i=pycharm,webstorm,phpstorm,java&theme=dark" alt="PyCharm, WebStorm, PhpStorm y Java" />
 </p>
 
+🎨 Diseño UI/UX
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" />
+</p>
+
+</div>
 📌 Proyectos destacados
 
 Explora mis repositorios para conocer mis proyectos, experimentos y avances como desarrollador.
