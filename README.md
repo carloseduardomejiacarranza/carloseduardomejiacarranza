@@ -38,6 +38,30 @@ Construyendo ideas, aprendiendo nuevas tecnologías y convirtiendo retos en proy
 </p>
 
 </div>
+💻 Lenguajes de programación
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,php,js,ts,html,css,mysql&theme=dark" alt="Java, Python, PHP, JavaScript, TypeScript, HTML, CSS y MySQL" />
+
+</div>
+
+⚙️ Frameworks y librerías
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" />
+
+</div>
+
+🗄️ Bases de datos
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&theme=dark" alt="MySQL, PostgreSQL, MongoDB y SQLite" />
+
+</div>
+
 📌 Proyectos destacados
 
 Explora mis repositorios para conocer mis proyectos, experimentos y avances como desarrollador.
