@@ -5,9 +5,9 @@
 
 Construyendo ideas, aprendiendo nuevas tecnologías y convirtiendo retos en proyectos.
 
-<a href="https://github.com/carloseduardomejiacarranza">
+
 <img src="https://img.shields.io/badge/GitHub-Mi%20perfil-181717?style=for-the-badge&logo=github" alt="GitHub" />
-</a>
+
 <img src="https://komarev.com/ghpvc/?username=carloseduardomejiacarranza&style=for-the-badge&color=0e75b6&label=VISITAS" alt="Visitas al perfil" />
 
 </div>
