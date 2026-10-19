@@ -23,31 +23,31 @@ Construyendo ideas, aprendiendo nuevas tecnologías y convirtiendo retos en proy
 🧰 Tecnologías y herramientas
 🖥️ Entornos de desarrollo e IDEs
 
-<div align="right">
+<div align="left">
 <img src="https://skillicons.dev/icons?i=vscode,pycharm,webstorm,phpstorm&theme=dark" alt="VS Code, PyCharm, WebStorm y PhpStorm" />
 </div>
 
 🔧 Herramientas y control de versiones
 
-<div align="center">
+<div align="left">
 <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git y GitHub" />
 </div>
 
 🎨 Diseño UI/UX
 
-<div align="center">
+<div align="left">
 <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" />
 </div>
 
 💻 Lenguajes de programación
 
-<div align="center">
+<div align="left">
 <img src="https://skillicons.dev/icons?i=java,python,php,js,ts,html,css&theme=dark" alt="Java, Python, PHP, JavaScript, TypeScript, HTML y CSS" />
 </div>
 
 ⚙️ Frameworks y librerías
 
-<div align="center">
+<div align="left">
 <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" />
 </div>
 
