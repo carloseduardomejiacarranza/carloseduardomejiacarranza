@@ -26,34 +26,39 @@ Construyendo ideas, aprendiendo nuevas tecnologías y convirtiendo retos en proy
 <div align="left">
 <img src="https://skillicons.dev/icons?i=vscode,pycharm,webstorm,phpstorm&theme=dark" alt="VS Code, PyCharm, WebStorm y PhpStorm" />
 </div>
+<br>
 
 🔧 Herramientas y control de versiones
 
 <div align="left">
 <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git y GitHub" />
 </div>
+<br>
 
 🎨 Diseño UI/UX
 
 <div align="left">
 <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" />
 </div>
+<br>
 
 💻 Lenguajes de programación
 
 <div align="left">
 <img src="https://skillicons.dev/icons?i=java,python,php,js,ts,html,css&theme=dark" alt="Java, Python, PHP, JavaScript, TypeScript, HTML y CSS" />
 </div>
+<br>
 
 ⚙️ Frameworks y librerías
 
 <div align="left">
 <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" />
 </div>
+<br>
 
 🗄️ Bases de datos
 
-<div align="center">
+<div align="left">
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
 </div>
 
@@ -66,6 +71,7 @@ Explora mis repositorios para conocer mis proyectos, prácticas y experimentos r
 <img src="https://img.shields.io/badge/Explorar%20mis%20repositorios-181717?style=for-the-badge&logo=github" alt="Explorar mis repositorios" />
 </a>
 </div>
+<br>
 
 📊 Estadísticas de GitHub
 
@@ -75,6 +81,7 @@ Explora mis repositorios para conocer mis proyectos, prácticas y experimentos r
 <br /><br />
 <img src="https://streak-stats.demolab.com?user=carloseduardomejiacarranza&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
 </div>
+<br>
 
 🌐 Conecta conmigo
 
@@ -83,6 +90,7 @@ Explora mis repositorios para conocer mis proyectos, prácticas y experimentos r
 <img src="https://img.shields.io/badge/GitHub-carloseduardomejiacarranza-181717?style=for-the-badge&logo=github" alt="Mi GitHub" />
 </a>
 </div>
+<br>
 
 <div align="center">
 
