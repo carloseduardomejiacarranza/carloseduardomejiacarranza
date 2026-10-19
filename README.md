@@ -15,7 +15,7 @@ Construyendo ideas, aprendiendo nuevas tecnologías y convirtiendo retos en proy
 </div>
 
 👨‍💻 Sobre mí
-🚀 Apasionado por la tecnología y el desarrollo de software.
+🚀 Apasionado por la tecnología.
 📚 En constante aprendizaje y mejora de mis habilidades.
 🛠️ Interesado en crear proyectos y resolver problemas mediante la programación.
 🎯 Enfocado en crecer como desarrollador y adquirir nuevos conocimientos.
