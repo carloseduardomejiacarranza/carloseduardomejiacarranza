@@ -1,6 +1,6 @@
 <div align="center">
 
-👋 ¡Hola! Soy Carlos Eduardo
+👋 ¡Hola! Soy Carlos Eduardo<br>
 💻 Desarrollador | Tecnología | Aprendizaje continuo
 
 Construyendo ideas, aprendiendo nuevas tecnologías y convirtiendo retos en proyectos.
