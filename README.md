@@ -23,7 +23,7 @@ Construyendo ideas, aprendiendo nuevas tecnologías y convirtiendo retos en proy
 🧰 Tecnologías y herramientas
 🖥️ Entornos de desarrollo e IDEs
 
-<div align="center">
+<div align="right">
 <img src="https://skillicons.dev/icons?i=vscode,pycharm,webstorm,phpstorm&theme=dark" alt="VS Code, PyCharm, WebStorm y PhpStorm" />
 </div>
 
