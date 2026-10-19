@@ -10,6 +10,8 @@ Construyendo ideas, aprendiendo nuevas tecnologías y convirtiendo retos en proy
 
 <img src="https://komarev.com/ghpvc/?username=carloseduardomejiacarranza&style=for-the-badge&color=0e75b6&label=VISITAS" alt="Visitas al perfil" />
 
+<br><br>
+
 </div>
 
 👨‍💻 Sobre mí
