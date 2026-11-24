@@ -38,7 +38,7 @@ Construyendo ideas, aprendiendo nuevas tecnologías y convirtiendo retos en proy
 🎨 Diseño UI/UX
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=angular,figma&theme=dark" alt="Figma" />
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" />
 </div>
 <br>
 
@@ -52,7 +52,7 @@ Construyendo ideas, aprendiendo nuevas tecnologías y convirtiendo retos en proy
 ⚙️ Frameworks y librerías
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" />
+<img src="https://skillicons.dev/icons?i=angular,bootstrap&theme=dark" alt="Bootstrap" />
 </div>
 <br>
 
