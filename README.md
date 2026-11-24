@@ -45,7 +45,7 @@ Construyendo ideas, aprendiendo nuevas tecnologías y convirtiendo retos en proy
 💻 Lenguajes de programación
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=java,python,php,js,ts,html,css&theme=dark" alt="Java, Python, PHP, JavaScript, TypeScript, HTML y CSS" />
+<img src="https://skillicons.dev/icons?i=java,python,php,js,ts,html,css&theme=dark" alt="Java, PHP, JavaScript, TypeScript, HTML y CSS" />
 </div>
 <br>
 
